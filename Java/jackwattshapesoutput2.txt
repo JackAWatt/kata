@@ -1,0 +1,71 @@
+
+
+shapeArray[0]:
+Circle.draw()
+Circle.erase()
+Area = 314.1592653589793
+Perimeter = 62.83185307179586
+
+
+shapeArray[1]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+
+
+shapeArray[2]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+
+
+shapeArray[3]:
+Circle.draw()
+Circle.erase()
+Area = 314.1592653589793
+Perimeter = 62.83185307179586
+
+
+shapeArray[4]:
+Triangle.draw()
+Triangle.erase()
+Area = 25.0
+Perimeter = -1.0
+
+
+shapeArray[5]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+
+
+shapeArray[6]:
+Triangle.draw()
+Triangle.erase()
+Area = 25.0
+Perimeter = -1.0
+
+
+shapeArray[7]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+
+
+shapeArray[8]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+
+
+shapeArray[9]:
+Rectangle.draw()
+Rectangle.erase()
+Area = 96.0
+Perimeter = 40.0
+BUILD SUCCESSFUL (total time: 1 second)
