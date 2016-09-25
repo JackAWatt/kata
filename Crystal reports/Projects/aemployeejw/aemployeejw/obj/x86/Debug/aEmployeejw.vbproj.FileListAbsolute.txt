@@ -1,0 +1,17 @@
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\bin\Debug\aEmployeejw.exe
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\bin\Debug\aEmployeejw.pdb
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\bin\Debug\aEmployeejw.xml
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\Window1.baml
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\Window1.g.vb
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\Application.g.vb
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw_MarkupCompile.cache
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw.g.resources
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw.Resources.resources
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw.exe
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw.xml
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\aEmployeejw.pdb
+C:\Users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\RdlCompile.cache
+C:\Users\2014617\documents\visual studio 2010\Projects\aEmployeejw\aEmployeejw\obj\x86\Debug\RdlCompile.compiled

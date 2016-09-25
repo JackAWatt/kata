@@ -1,0 +1,8 @@
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\ResolveAssemblyReference.cache
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\aEmployee.Form1.resources
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\aEmployee.Resources.resources
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\GenerateResource.read.1.tlog
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\GenerateResource.write.1.tlog
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\RdlCompile.cache
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\obj\Debug\RdlCompile.compiled
+c:\users\2014617\documents\visual studio 2010\Projects\aEmployee\aEmployee\bin\Debug\aEmployee.exe.config
