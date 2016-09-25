@@ -1,0 +1,36 @@
+﻿Build started 9/28/2012 3:16:50 PM.
+     1>Project "C:\data\current\C++GUI\OOP1\WattOOP\WattOOP\WattOOP.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\WattOOP.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\WattOOP.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt WattOOPDlg.cpp
+         WattOOPDlg.cpp
+     1>c:\data\current\c++gui\oop1\wattoop\wattoop\resource.h(71): warning C4005: 'IDCANCEL' : macro redefinition
+                 c:\program files\microsoft sdks\windows\v7.0a\include\winuser.h(9293) : see previous definition of 'IDCANCEL'
+     1>c:\data\current\c++gui\oop1\wattoop\wattoop\wattoopdlg.cpp(548): warning C4715: 'CWattOOPDlg::Dispense' : not all control paths return a value
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\data\current\C++GUI\OOP1\WattOOP\Debug\WattOOP.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\WattOOP.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\data\current\C++GUI\OOP1\WattOOP\Debug\WattOOP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\data\current\C++GUI\OOP1\WattOOP\Debug\WattOOP.lib" /MACHINE:X86 Debug\WattOOP.res
+         Debug\WattOOP.exe.embed.manifest.res
+         Debug\Password.obj
+         Debug\stdafx.obj
+         Debug\WattOOP.obj
+         Debug\WattOOPDlg.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\WattOOP.exe.embed.manifest" /manifest Debug\WattOOP.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         WattOOP.vcxproj -> C:\data\current\C++GUI\OOP1\WattOOP\Debug\WattOOP.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\WattOOP.unsuccessfulbuild".
+         Touching "Debug\WattOOP.lastbuildstate".
+     1>Done Building Project "C:\data\current\C++GUI\OOP1\WattOOP\WattOOP\WattOOP.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.36

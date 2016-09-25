@@ -1,0 +1,43 @@
+﻿Build started 10/10/2012 9:37:07 AM.
+     1>Project "C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\FirstSDI\FirstSDI.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\FirstSDI.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\FirstSDI.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt FirstSDI.cpp
+         FirstSDI.cpp
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\Debug\FirstSDI.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\FirstSDI.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\Debug\FirstSDI.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\Debug\FirstSDI.lib" /MACHINE:X86 Debug\FirstSDI.res
+         Debug\FirstSDI.exe.embed.manifest.res
+         Debug\ClassView.obj
+         Debug\ClientProfile.obj
+         Debug\CsecondDialog.obj
+         Debug\FileView.obj
+         Debug\FirstSDI.obj
+         Debug\FirstSDIDoc.obj
+         Debug\FirstSDIView.obj
+         Debug\MainFrm.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\FirstSDI.exe.embed.manifest" /manifest Debug\FirstSDI.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         FirstSDI.vcxproj -> C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\Debug\FirstSDI.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\FirstSDI.unsuccessfulbuild".
+         Touching "Debug\FirstSDI.lastbuildstate".
+     1>Done Building Project "C:\Users\2014617\Dropbox\data\current\C++GUI\FirstSDIJW\FirstSDI\FirstSDI.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:11.71
