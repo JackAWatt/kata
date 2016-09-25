@@ -1,5 +1,0 @@
-D:\Data\Courses Sept - Dec 2012\DATA1034 Crystal Rep and Oracle\Projects\EmployeeO\EmployeeO\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Data\Courses Sept - Dec 2012\DATA1034 Crystal Rep and Oracle\Projects\EmployeeO\EmployeeO\obj\x86\Debug\EmployeeO.Form1.resources
-D:\Data\Courses Sept - Dec 2012\DATA1034 Crystal Rep and Oracle\Projects\EmployeeO\EmployeeO\obj\x86\Debug\EmployeeO.Resources.resources
-D:\Data\Courses Sept - Dec 2012\DATA1034 Crystal Rep and Oracle\Projects\EmployeeO\EmployeeO\obj\x86\Debug\GenerateResource.read.1.tlog
-D:\Data\Courses Sept - Dec 2012\DATA1034 Crystal Rep and Oracle\Projects\EmployeeO\EmployeeO\obj\x86\Debug\GenerateResource.write.1.tlog
