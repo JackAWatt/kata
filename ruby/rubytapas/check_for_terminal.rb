@@ -1,0 +1,3 @@
+if $stdout.tty?
+
+end
