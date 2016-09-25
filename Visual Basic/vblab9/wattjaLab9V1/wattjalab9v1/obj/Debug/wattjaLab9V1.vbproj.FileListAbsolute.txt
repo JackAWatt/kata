@@ -1,0 +1,10 @@
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\bin\Debug\wattjaLab9V1.exe
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\bin\Debug\wattjaLab9V1.pdb
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\bin\Debug\wattjaLab9V1.xml
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\ResolveAssemblyReference.cache
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.Form1.resources
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.Resources.resources
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.vbproj.GenerateResource.Cache
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.exe
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.xml
+C:\!Data\Programming\Visual Basic\vblab9\wattjaLab9V1\wattjaLab9V1\obj\Debug\wattjaLab9V1.pdb
