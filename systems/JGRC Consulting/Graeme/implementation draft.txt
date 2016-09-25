@@ -1,0 +1,21 @@
+--intro--
+
+--development/qa--
+
+The development phase is the first section of the project to begin after this analysis is completed. This phase will be enacted by the team of three developers and the technical lead. The project manager will also be heavily involved in this phase, overseeing the developers actions. The team will be using the Agile development methodology, which benefits the client in that working sections will be demoed, rather than flat documents, and there will be weekly updates to the client on the progress, if they so desire.
+
+Quality assurance begins after two weeks of development, when the developers have their software set up and have begun to produce a sufficiently large body of testable code. The QA team will work closely with the developers, providing feedback to ensure a quality product, and to enable any potential issues identified before they can become a problem.
+
+--implementation--
+
+During the last three weeks of QA, the implementation phase will begin. The first two weeks of the phase will be the network installation. It will be installed in parallel with the current network, so that no conflict or outages will occurr. The network installation will be outsourced to the company, who will lay the fibre backbone between buildings and to the blanket wireless access points, as well as the network drops in the buildings. The following week will be the hardware installation and configuration. The server and the new workstations, as well as the executive laptops will all be brought on site, and installed where applicable. The fourth week of the implementation phase will be dedicated to software installation and configuration, as the new TTCS will be out of development, and the QA phase will have completed alongside the hardware installations. Mock data is entered at this time into a test database, for the training sessions. Again, as this is on entirely new hardware, there will be no outages to the current system.
+
+--training--
+
+The weekend following the software installations, there will be a training session for all dispatchers, dock foremen, and executives on their respective sections of the TTCS. A lunch and refreshments will be provided. Along with the training, all the users will be given training materials, and access to the test database, in order to self-educate during the following week, if they wish. The drivers will be trained in a staggered manner during the following week, so as to not create any downtime. These sessions need only be during the week, as the driver interface is very minimal. 
+
+--deployment--
+
+The weekend following training will cover the entirety of the deployment phase. All data on the suppliers, anything relevant from the previous system, and the information for creating user accounts will have been gathered. A data entry team will be provided this information to populate the TTCS. They will also enter the current state of the lot and any other information that would have been fluid until the end of operations into the TTCS, to be activated on Monday morning.
+
+--conclusion--

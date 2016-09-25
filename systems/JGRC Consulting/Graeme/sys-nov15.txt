@@ -1,0 +1,12 @@
+fix EVERYTHING
+	reports
+	driver screen
+
+design backend/database
+
+cost of equipment
+
+
+stats per driver: lead time and move time, total moves, idle and break time, moves completed late
+
+trailer movement: flat list, required time, shown time, regular trailer view stuff, 

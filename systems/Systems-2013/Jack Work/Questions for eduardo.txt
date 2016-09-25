@@ -1,0 +1,30 @@
+Questions for eduardo
+
+	How would you handle loss (ex. Breaking a light before installing it into a car)
+		what process would be taken to reflect the loss in intentory
+
+
+	How are you assigned your daily tasks?	
+
+	How do you track your time? If you are assigned to a task that is billed at 1.4 hours, are you expected to be busy for the whole 1.4 hours?
+
+	Is there ever a time that a vehicle will sit in a service bay(ex. waiting for a part to be brought)
+
+	Do you have a way to determine which service bays are available and which are occupied
+
+	If you have a task that requires another service technican to assist you how would you go about doing so.
+
+	Is there an expected turn around time? and if you were to go over it how would you go about contacting the customer to inform them.
+
+	How do you interact with the service writers?
+
+	Can you demo how you would interact with the alldata system?
+
+	Do you have customer parking that is tracked? (ex knowing that a specific customers car is parked in row 3 spot 6 and needs to be moved to a specific service bay to be worked on)
+
+	Does a situation ever arise that a car is in a service bay, you have checked inventory and have the part on hand but when you actually go to retreive the part you don't actually have it in inventory?
+		if so how would you handle this?
+
+
+	Can you walk us through your daily interaction with the parts associate?
+

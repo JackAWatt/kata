@@ -1,0 +1,117 @@
+Joe's issues:
+
+Prod manager - Monica Munoz opinions:
+- untimely moves -> probs @ production line
+- trailers arriving late/eod not unloaded, sit overnight - unsecured Munos says Perez not taking command of it (conflict between them)
+- dispatchers/dock foremen don't like each other
+
+- Munoz and Perez agree theft is issue, but disagree on cause
+
+Perez aware of:
+- number of complaints from dock foremen about late trailers
+- number of complaints from dock foremen about dispatchers not answering phones
+- number of complaints from dispatchers about dock foremen not giving sufficient lead time to get to docks
+- dispatchers/dock foremen, aware of them not liking one another
+- trailers arriving to plant/warehouse not unloaded, sit overnight dock foremen trying to get ahead, ordering them too late, or to start unloading first thing in the morning
+- foremen not paying enough attn to trailer reqs
+- may be 6000/mo on trailer fees, not sure this IS the case, but could be lower
+- 12 drivers on lease, not sure if correct, could be improved
+- half 7-1600, half 8-1700, breaks and lunch not formalized times - everyone on break or lunch at the same time is possible
+
+- conflict with munos - has some responsibility, but both sides need to be part
+- conflict with driver, question if they're doing job properly
+	- not pro union
+- conflict with eduardo, are phones always manned?
+
+
+Christ Patstone:
+- ome used to own TT, and drivers were employees
+- dock had assigned drivers, managed by the docks
+- going back to previous would increase efficiency
+- dispatchers won't like it
+- distributed networks these days, but ome is currently centralized
+- phone is busy, dispatchers not at phones
+- sitting overnight - theft, fault of dispatchers not getting them there in time to be unloaded
+
+
+Eduardo:
+- dock foremen don't provide sufficient time
+- tt drivers are herding cats, can't manage
+- drivers return trailers to incorrect spots, and don't inform anyone
+- the more trailers in incorrect spots, the more errs there are, and the more out of place trailers get - cascades
+- once a week err checking on 300 spots, system never completely accurate
+- bill of lading into comp is manual and slow
+- jose always says to decrease fees, need to see what are overdue, not a good way to do so
+- dispatchers/foremen don't like one another
+- dispatcher in office at all times - not the case often, both dispatchers outside handling trucks (or take smoke breaks together, or on personal business, etc.)
+- can actually be hard to reach, but will deny this, become angry if accused by analyst
+
+
+charles norris:
+- trailers not in correct spots, have to search and find it
+- no issues, just drive the trucks
+
+- will ask for proof if it's even hinted they're doing job wrong
+- computer in truck, not liking it
+- be crotchety
+- worried about being laid off
+
+
+150-250/300 spots in yard
+
+500 calls per day
+300 radio per day
+
+200 trailers moved per day
+
+6000 avg detention fees
+
+
+- figure out all issues... then figure out which are priority
+
+
+
+wishlist (follow up on this):
+monica:
+- TTCS so efficient, no complaints from dock foremen
+- MMS tells you what materials are on site
+- having to check w/ jose to be sure that MMS matches TTCS
+- inquiry on TTCS that relates to components, not trailers
+- change in procedure, never leave trailers at dock overnight
+- comprehensive system to track broken seals, exec-level reporting
+- exec-lvl reporting for req'd vs actual trailer deliv. - daily/weekly/monthly
+
+traffic admin:
+- driver productivity sys - screen inquiry/hard copy reprts
+- finish products not left @ dock overnight
+	- late trailers never the cause of unloaded trailers being left
+- exec-lvl tracking trailer fee situation
+- broken seal tracking
+- req'd vs actual trailer delivery times
+
+
+dock foremen:
+- decrease or elim. need to telephone dispatchers
+- ensure req'd trailers never late
+- exec-lvl req'd vs actual trailer deliv. times by dock foreman
+
+
+dispatcher:
+- phone issues
+- dock foremen enter requests of what, when, where, and have that order processed.
+- locate components (if more than one trailer, longest trailer there)
+- list of tasks for drivers - screen in truck?
+- don't get rid of radios, still need as backup
+- visual map of yard, status of parking locations & docks w/ trailer info
+- daily report listing oldest to newest trailers, grouped by shipping company. flexible as possible
+- visual representation of all drivers & status
+- bill of lading sent electronically & preloaded into system
+- get rid of/improve after hours arrivals - courtesy, but a problem
+- drivers never wait at docks - they shouldin't be, but make it so
+- tracking broken seals/trailers to repair
+
+
+charles norris:
+- nothing, no change
+- wary of computer consultants
+- don't want to be running a computer

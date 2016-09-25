@@ -1,0 +1,5 @@
+Good ______ everyone, I'd like to thank you for coming to our presentation today. I'm Graeme McBriarty (I've met some of you before, nice to see you again.), and along with my associates Jack Watt, Ryan Vaughan, and Corey Despres, I will be discussing the trailer traffic control system as it currently stands.
+
+Our goal is to fully replace the TTCS with our own sysem designed from the ground up.
+
+I'd like to pass the floor to Corey, who will be covering the processes involved with trailer arrivals.
