@@ -1,0 +1,18 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+lab2-Watt
+</name>
+</assembly>
+<members>
+<member name="T:lab2_Watt.frmMortgage">
+	<summary>
+ Mortgage Calculator
+ Jack Watt
+ 1/19/2010
+ </summary>
+	<remarks>changed from messagebox to error provider</remarks>
+</member>
+</members>
+</doc>

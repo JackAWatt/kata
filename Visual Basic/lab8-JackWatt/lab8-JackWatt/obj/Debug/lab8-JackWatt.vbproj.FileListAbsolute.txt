@@ -1,0 +1,11 @@
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\bin\Debug\lab8-JackWatt.exe.config
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\bin\Debug\lab8-JackWatt.exe
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\bin\Debug\lab8-JackWatt.pdb
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\bin\Debug\lab8-JackWatt.xml
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8_JackWatt.form1.resources
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8_JackWatt.Resources.resources
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8-JackWatt.vbproj.GenerateResource.Cache
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8-JackWatt.exe
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8-JackWatt.xml
+C:\Users\2014617\Documents\Visual Studio 2008\Projects\lab8-JackWatt\lab8-JackWatt\obj\Debug\lab8-JackWatt.pdb

@@ -1,0 +1,16 @@
+D:\DATA\2012 Jan-Apr\VB-DB\Labs\Lab06\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.exe
+D:\DATA\2012 Jan-Apr\VB-DB\Labs\Lab06\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.xml
+D:\DATA\2012 Jan-Apr\VB-DB\Labs\Lab06\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.pdb
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.exe
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.xml
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Assign5-Soln.pdb
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\bin\Debug\Assign5-Soln.exe
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\bin\Debug\Assign5-Soln.pdb
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\bin\Debug\Assign5-Soln.xml
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\ResolveAssemblyReference.cache
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Assign5_Soln.frmBankAccountTransactions.resources
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Assign5_Soln.Resources.resources
+C:\!Data\school\Term 2\VB DB\Lab06-Start\Lab06-Start\obj\Debug\Lab06-Start.vbproj.GenerateResource.Cache
+C:\!Data\school\Term 2\VB DB\Lab06-wattjack\Lab06-Start\obj\Debug\Assign5-Soln.exe
+C:\!Data\school\Term 2\VB DB\Lab06-wattjack\Lab06-Start\obj\Debug\Assign5-Soln.xml
+C:\!Data\school\Term 2\VB DB\Lab06-wattjack\Lab06-Start\obj\Debug\Assign5-Soln.pdb
