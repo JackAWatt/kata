@@ -1,4 +1,5 @@
-[Back to Main List](https://github.com/JsWatt/Free-Parking/blob/master/docs/main.md)
+[Back to Main
+List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Marketing Can No Longer Rely on the Funnel](https://hbr.org/2014/05/marketing-can-no-longer-rely-on-the-funnel)
 

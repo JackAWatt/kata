@@ -1,4 +1,5 @@
-[Back to Main List](https://github.com/JsWatt/Free-Parking/blob/master/docs/main.md)
+[Back to Main
+List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Why use www?](http://www.yes-www.org/why-use-www/)
 
