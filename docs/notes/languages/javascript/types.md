@@ -1,4 +1,4 @@
-#
+#stuff
 
 4.7. Augmenting Types
 JavaScript allows the basic types of the language to be augmented. In Chapter 3, we saw that adding a method
