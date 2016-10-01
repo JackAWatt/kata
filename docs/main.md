@@ -1,5 +1,5 @@
 
-* [Articles to Read:](https://gist.github.com/JsWatt/ec4db095a4d7c25968b5)
+* [Articles to Read:](https://github.com/JsWatt/Free-Parking/blob/master/docs/articles_to_read.md)
 
 * [Articles I've Read:](https://gist.github.com/JsWatt/8caab0c2f1a9f1bc3172)
 
