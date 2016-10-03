@@ -33,7 +33,7 @@
 
 * [Hardware:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/hardware.md)
 
-* [Courses tutorials and Lists:](https://gist.github.com/JsWatt/14f77cacc1b1fa0892a2)
+* [Courses tutorials and Lists:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/courses_tutorials_lists.md)
 
 * [Data Sets:](https://gist.github.com/JsWatt/664676abc5abbec9168b)
 
