@@ -43,6 +43,6 @@
 
 * [Office hacks:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/office_hacks.md)
 
-[*](https://gist.github.com/JsWatt/0ede1ad7153c49a18cbb)
+[*](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/into_the_uncomfort.md)
 
 This is a work in progress and some things might be in the wrong places. 
