@@ -21,7 +21,7 @@
 
 * [Documenteries:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/video_collections.md)
 
-* [podcasts (Episodes):](https://gist.github.com/JsWatt/b18b35af899f103ed8cc)
+* [podcasts (Episodes):](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/podcast_episodes.md)
 
 * [Podcasts:](https://gist.github.com/JsWatt/29a43181d52f30cda4d4)
 
