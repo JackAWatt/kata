@@ -29,7 +29,7 @@
 
 * [Languages to check out:](https://gist.github.com/JsWatt/255df58dd50228fd55d6)
 
-* [People:](https://gist.github.com/JsWatt/9fa0113ebd600ae3bd0e)
+* [People:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/people.md)
 
 * [Hardware:](https://gist.github.com/JsWatt/1fc405fb0a01a94bf5ef)
 
