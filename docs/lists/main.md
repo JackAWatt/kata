@@ -19,7 +19,7 @@
 
 * [Video collections and series:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/video_collections.md)
 
-* [Documenteries:](https://gist.github.com/JsWatt/588d2d37faa65ec887bb)
+* [Documenteries:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/video_collections.md)
 
 * [podcasts (Episodes):](https://gist.github.com/JsWatt/b18b35af899f103ed8cc)
 
