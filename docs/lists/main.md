@@ -9,7 +9,7 @@
 
 * [Books I do have:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/books_I_have.md)
 
-* [Books I do not have:](https://gist.github.com/JsWatt/8e7bab5ded1b21f55e50)
+* [Books I do not have:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/books_I_do_not_have.md)
 
 * [Non tech books](https://gist.github.com/JsWatt/178d7e455b0e31ab89f8)
 
