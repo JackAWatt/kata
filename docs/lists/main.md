@@ -39,7 +39,7 @@
 
 * [Open Source Projects:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/open_source_projects.md)
 
-* [Questions and Answers:](https://gist.github.com/JsWatt/de72cab31c8b00e8bcd2)
+* [Questions and Answers:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/questions_answers.md)
 
 * [Office hacks:](https://gist.github.com/JsWatt/3a9416b302f6fc42b205)
 
