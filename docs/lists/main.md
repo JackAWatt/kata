@@ -7,7 +7,7 @@
 
 * [Concepts, Papers, Methodologies, Paradigms, other like stuff:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/papers_and_things_that_are_things.md)
 
-* [Books I do have:](https://gist.github.com/JsWatt/1ff82b7287b97d62dcef)
+* [Books I do have:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/books_I_have.md)
 
 * [Books I do not have:](https://gist.github.com/JsWatt/8e7bab5ded1b21f55e50)
 
