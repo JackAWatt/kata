@@ -11,7 +11,7 @@
 
 * [Books I do not have:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/books_I_do_not_have.md)
 
-* [Non tech books](https://gist.github.com/JsWatt/178d7e455b0e31ab89f8)
+* [Non tech books](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/non_tech_books.md)
 
 * [Talks/Lectures:](https://gist.github.com/JsWatt/d4a5d05f13b7e9c3d2f5)
 
