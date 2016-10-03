@@ -13,7 +13,7 @@
 
 * [Non tech books](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/non_tech_books.md)
 
-* [Talks/Lectures:](https://gist.github.com/JsWatt/d4a5d05f13b7e9c3d2f5)
+* [Talks/Lectures:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/talks_and_lectures.md)
 
 * [Unwatched Talks/Lectures:](https://gist.github.com/JsWatt/63c57281f7d0553d96c4)
 
