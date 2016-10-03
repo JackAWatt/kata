@@ -17,7 +17,7 @@
 
 * [Unwatched Talks/Lectures:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/unwatched_talks.md)
 
-* [Video collections and series:](https://gist.github.com/JsWatt/c385fa24a487a8a536df)
+* [Video collections and series:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/video_collections.md)
 
 * [Documenteries:](https://gist.github.com/JsWatt/588d2d37faa65ec887bb)
 
