@@ -31,7 +31,7 @@
 
 * [People:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/people.md)
 
-* [Hardware:](https://gist.github.com/JsWatt/1fc405fb0a01a94bf5ef)
+* [Hardware:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/hardware.md)
 
 * [Courses tutorials and Lists:](https://gist.github.com/JsWatt/14f77cacc1b1fa0892a2)
 
