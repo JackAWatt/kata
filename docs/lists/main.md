@@ -1,9 +1,7 @@
 
-* [Articles to
-* Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_to_read.md)
+* [Articles to Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_to_read.md)
 
-* [Articles I've
-* Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_read.md)
+* [Articles I've Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_read.md)
 
 * [Information Security: papers, resources, other stuff:](ontoe)
 
