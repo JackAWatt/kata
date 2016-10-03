@@ -1,13 +1,13 @@
 
 * [Articles to
-* Read:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_to_read.md)
+* Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_to_read.md)
 
 * [Articles I've
-* Read:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_read.md)
+* Read](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/articles_read.md)
 
 * [Information Security: papers, resources, other stuff:](ontoe)
 
-* [Concepts, Papers, Methodologies, Paradigms, other like stuff:](https://gist.github.com/JsWatt/614e687682f12d100a3e)
+* [Concepts, Papers, Methodologies, Paradigms, other like stuff:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/papers_and_things_that_are_things.md)
 
 * [Books I do have:](https://gist.github.com/JsWatt/1ff82b7287b97d62dcef)
 
