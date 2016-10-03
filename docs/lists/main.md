@@ -23,7 +23,7 @@
 
 * [podcasts (Episodes):](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/podcast_episodes.md)
 
-* [Podcasts:](https://gist.github.com/JsWatt/29a43181d52f30cda4d4)
+* [Podcasts:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/podcasts.md)
 
 * [Resources and sites:](https://gist.github.com/JsWatt/7d93320c2cf6aadb1560)
 
