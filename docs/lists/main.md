@@ -35,7 +35,7 @@
 
 * [Courses tutorials and Lists:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/courses_tutorials_lists.md)
 
-* [Data Sets:](https://gist.github.com/JsWatt/664676abc5abbec9168b)
+* [Data Sets:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/data_sets.md)
 
 * [Open Source Projects:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/open_source_projects.md)
 
