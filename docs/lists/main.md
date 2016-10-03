@@ -41,7 +41,7 @@
 
 * [Questions and Answers:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/questions_answers.md)
 
-* [Office hacks:](https://gist.github.com/JsWatt/3a9416b302f6fc42b205)
+* [Office hacks:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/office_hacks.md)
 
 [*](https://gist.github.com/JsWatt/0ede1ad7153c49a18cbb)
 
