@@ -37,7 +37,7 @@
 
 * [Data Sets:](https://gist.github.com/JsWatt/664676abc5abbec9168b)
 
-* [Open Source Projects:](https://gist.github.com/JsWatt/df9637ae4b7d2054ad70)
+* [Open Source Projects:](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/open_source_projects.md)
 
 * [Questions and Answers:](https://gist.github.com/JsWatt/de72cab31c8b00e8bcd2)
 
