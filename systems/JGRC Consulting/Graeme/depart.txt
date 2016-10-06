@@ -1,5 +1,0 @@
-Departure
-	Marking For Departure 
-		In the "Trailers by Shipping Company" list, the dispatcher will select a check box that marks the trailer for removal or release. This flag will allow the trailer record to be listed in the trailer departure queue.
-	Departing Trailer
-		When a shipping company driver arrives, the dispatcher opens the trailer departure queue, locates the trailer, and sets it as departed.

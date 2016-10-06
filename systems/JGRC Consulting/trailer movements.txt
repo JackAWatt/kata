@@ -1,7 +1,0 @@
-YARD --(components)-> PLANT --(empty/leftover components)-> YARD
-
-YARD --(empty)-> PLANT --(finished products)-> WAREHOUSE
-
-YARD --(empty)-> PLANT --(finished products)-> END CUSTOMERS
-
-YARD --(empty)-> WAREHOUSE --(finished products)-> END CUSTOMERS
