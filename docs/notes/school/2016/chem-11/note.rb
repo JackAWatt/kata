@@ -1,4 +1,3 @@
 md_files = Dir.glob("[0-9]*.md")  
 
-x = md_files.sort
-p x[x.length - 1]
+p md_files[md_files.length -1].sort

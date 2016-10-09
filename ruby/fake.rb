@@ -1,12 +1,11 @@
-system "clear" or system "cls"
-def r(a,b)
-    rnd = Random.new
-    rnd.rand(a..b)
-end
-while :True
-    print r(1,126).to_s << "." << r(0,255).to_s << "." << r(0,255).to_s << "." << r(1,254).to_s
-    print " is class A"
-    sleep 0.09
-    print "and responds? \n"
-end
+require 'net/http'
+require 'uri'
 
+system "clear" or system "cls"
+uri = URI("https://gist.github.com/JsWatt/59f4b8ce6bbf0c7e4dc7")
+page = Net::HTTP.get(uri)
+email_regex = /[\w.]{3,}[@][\w]{1,}[.][\w]{1,}/
+url_regex = /^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/
+
+email_list = page.scan(email_regex)
+p uri_list = page.scan(url_regex)

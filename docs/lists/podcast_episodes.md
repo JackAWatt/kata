@@ -55,3 +55,9 @@
 * [RR Polyglot Programming](https://devchat.tv/ruby-rogues/166-rr-polyglot-programming)
 
 * [RR Book Club: Understanding Computation](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart)
+
+* [SE-Radio Episode 236: Rebecca Parsons on Evolutionary Architecture](http://www.se-radio.net/2015/08/se-radio-episode-236-rebecca-parsons-on-evolutionary-architecture/)
+
+* [Episode 226: Eric Evans on Domain-Driven Design at 10 Years](http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years)
+
+
