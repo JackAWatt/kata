@@ -13,8 +13,6 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [MY FAMILY USES SLACK. IT’S PRETTY INTERESTING.](http://labs.earthpeople.se/2016/02/my-family-uses-slack/)
 
-* []() 
-
 * [The future of education: The class of 1989](http://learningspaces.org/files/mcluhanfs.html)
 
 * [\[RFC PATCH 00/28\] Linux Kernel Library](https://lwn.net/Articles/662953/)
@@ -243,7 +241,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html)
 
-* []()
+* [On the future of statistics languages](http://www.drbunsen.org/on-the-future-of-statistical-languages/
 
 * []()
 
