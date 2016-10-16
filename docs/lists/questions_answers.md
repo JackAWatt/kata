@@ -17,3 +17,5 @@
 * [deterministic?](https://www.reddit.com/r/compsci/comments/57oh2o/is_it_possible_to_determine_if_an_arbitrary/)
 
 * [solve algorithmic problems](https://www.reddit.com/r/compsci/comments/57klen/learn_mathematical_tricks_with_matrices_to_solve/)
+
+* [array in hex in assembly x86 MASM](https://www.reddit.com/r/compsci/comments/57pt62/array_in_hexadecimal_in_assembly_x86_masm/)
