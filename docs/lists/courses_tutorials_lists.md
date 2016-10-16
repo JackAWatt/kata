@@ -38,4 +38,4 @@
 
 * [Self-study guide to machine learning](http://machinelearningmastery.com/self-study-guide-to-machine-learning/)
 
-* []
+* [deep learning reading list](http://jmozah.github.io/links/)
