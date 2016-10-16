@@ -13,3 +13,5 @@
 * [Interesting 16x16 grid sum](http://stackoverflow.com/questions/40027974/interesting-16x16-grid-sum)
 
 * [Switched from pre-med to comp sci, but it still want some biology in my life. What are my career options](https://www.reddit.com/r/compsci/comments/57eom6/switched_from_premed_to_comp_sci_but_it_still/)
+
+* [deterministic?](https://www.reddit.com/r/compsci/comments/57oh2o/is_it_possible_to_determine_if_an_arbitrary/)
