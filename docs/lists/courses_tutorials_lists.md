@@ -33,3 +33,6 @@
 * [ProjectEuler+](https://www.hackerrank.com/contests/projecteuler/challenges)  --Great exercises in maths programming. 
 
 * [Learnable Programming: Bret Victor](http://worrydream.com/LearnableProgramming/)
+
+* [CS281: Advanced Machine Learning](http://www.seas.harvard.edu/courses/cs281/) 
+
