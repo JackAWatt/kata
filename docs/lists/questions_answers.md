@@ -3,3 +3,5 @@
 * [Ask HN: What are the best developer conferences in 2016?](https://news.ycombinator.com/item?id=10831730)
 
 * [compiler bomb](http://codegolf.stackexchange.com/questions/69189/build-a-compiler-bomb/69193#69193)
+
+* [Ask HN: To those who became fluent in a second language, what did you do?](https://news.ycombinator.com/item?id=12716549)
