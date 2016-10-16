@@ -249,7 +249,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Electrons in Graphene behave like light, only better](http://engineering.columbia.edu/news/james-hone-electrons-graphene)
 
-* []()
+* [what every computer scientist should know about floating-point arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
 * []()
 
