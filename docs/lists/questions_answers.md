@@ -19,3 +19,6 @@
 * [solve algorithmic problems](https://www.reddit.com/r/compsci/comments/57klen/learn_mathematical_tricks_with_matrices_to_solve/)
 
 * [array in hex in assembly x86 MASM](https://www.reddit.com/r/compsci/comments/57pt62/array_in_hexadecimal_in_assembly_x86_masm/)
+
+* [Abstract models of synchronous sequential logic circuits?](https://www.reddit.com/r/compsci/comments/57nl4t/abstract_models_of_synchronous_sequential_logic/)
+
