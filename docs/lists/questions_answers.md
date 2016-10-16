@@ -27,3 +27,5 @@
 * [what is your setup?](http://www.datatau.com/item?id=634)
 
 * [NP with a parallelism model?](http://cs.stackexchange.com/questions/64679/np-with-a-parallelism-model)
+
+* [anyone_know_of_a_good_artificial_intelligence/ course or degree](https://www.reddit.com/r/compsci/comments/57a4y2/anyone_know_of_a_good_artificial_intelligence/)
