@@ -243,7 +243,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [On the future of statistics languages](http://www.drbunsen.org/on-the-future-of-statistical-languages/
 
-* []()
+* [The Theorem Every Data Scientist Should Know](http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html)
 
 * []()
 
