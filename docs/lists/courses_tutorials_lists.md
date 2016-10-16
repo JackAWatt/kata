@@ -41,3 +41,5 @@
 * [deep learning reading list](http://jmozah.github.io/links/)
 
 * [data analysis](https://www.springboard.com/learning-paths/data-analysis/)
+
+* [Easy parallel loops in Python, R, Matlab and Octave](https://blog.dominodatalab.com/simple-parallelization/)
