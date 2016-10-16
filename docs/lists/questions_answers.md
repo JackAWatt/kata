@@ -5,3 +5,5 @@
 * [compiler bomb](http://codegolf.stackexchange.com/questions/69189/build-a-compiler-bomb/69193#69193)
 
 * [Ask HN: To those who became fluent in a second language, what did you do?](https://news.ycombinator.com/item?id=12716549)
+
+* [What is computer science to you?](https://www.reddit.com/r/compsci/comments/56ow2m/what_is_computer_science_to_you/)
