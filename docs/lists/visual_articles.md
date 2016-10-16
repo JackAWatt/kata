@@ -10,3 +10,5 @@
 * [The Grammar of Data Science](http://multithreaded.stitchfix.com/blog/2015/03/17/grammar-of-data-science/)
 
 * [11 python libraries](http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html)
+
+* [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
