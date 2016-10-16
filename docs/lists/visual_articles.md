@@ -16,3 +16,9 @@
 * [The hardest parts of data science](https://yanirseroussi.com/2015/11/23/the-hardest-parts-of-data-science/)
 
 * [7 Datasets You've Likely Never Seen Before](http://blog.yhat.com/posts/7-funny-datasets.html)
+
+* [Modern Pandas](http://tomaugspurger.github.io/modern-1.html)
+
+* [Yhat ScienceBox](http://blog.yhat.com/posts/yhat-sciencebox.html)
+
+* [Frequentism and Bayesianism IV: How to be a Bayesian in Python(http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)
