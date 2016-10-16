@@ -28,3 +28,7 @@
 * [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
 
 * [Cross Validation Done Wrong](http://www.alfredo.motta.name/cross-validation-done-wrong/)
+
+* [Useful Unix commands for exploring data](http://datavu.blogspot.ca/2014/08/useful-unix-commands-for-exploring-data.html)
+
+* []()
