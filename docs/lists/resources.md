@@ -25,3 +25,6 @@
 * [ruby toolbox game libs](https://www.ruby-toolbox.com/categories/game_libraries)
 
 * [ruby toolbox gosu](https://www.ruby-toolbox.com/projects/gosu)
+
+* [academic torrents](http://academictorrents.com/)
+
