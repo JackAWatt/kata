@@ -22,3 +22,4 @@
 
 * [Abstract models of synchronous sequential logic circuits?](https://www.reddit.com/r/compsci/comments/57nl4t/abstract_models_of_synchronous_sequential_logic/)
 
+* [How do we make Data Tau work?](http://www.datatau.com/item?id=11800)
