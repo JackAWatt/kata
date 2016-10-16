@@ -231,7 +231,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [install command t with vim and ruby](http://www.justinbar.net/post/install-vim-with-ruby-support-and-command-t-plugin-on-ubuntu)
 
-* []()
+* [How to use t-SNE effectively](http://distill.pub/2016/misread-tsne/)
 
 * []()
 
