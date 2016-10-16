@@ -15,4 +15,4 @@
 
 * [The hardest parts of data science](https://yanirseroussi.com/2015/11/23/the-hardest-parts-of-data-science/)
 
-* []()
+* [7 Datasets You've Likely Never Seen Before](http://blog.yhat.com/posts/7-funny-datasets.html)
