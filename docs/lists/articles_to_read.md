@@ -239,7 +239,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Hiring data scientists](http://treycausey.com/hiring_data_scientists.html)
 
-* [](http://setosa.io/ev/markov-chains/)
+* [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 
 * []()
 
