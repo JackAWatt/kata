@@ -29,3 +29,5 @@
 * [NP with a parallelism model?](http://cs.stackexchange.com/questions/64679/np-with-a-parallelism-model)
 
 * [anyone_know_of_a_good_artificial_intelligence/ course or degree](https://www.reddit.com/r/compsci/comments/57a4y2/anyone_know_of_a_good_artificial_intelligence/)
+
+* [Budget deep learning rig](https://www.reddit.com/r/MachineLearning/comments/57r6z6/d_budget_deep_learning_rig/)
