@@ -32,3 +32,5 @@
 * [Useful Unix commands for exploring data](http://datavu.blogspot.ca/2014/08/useful-unix-commands-for-exploring-data.html)
 
 * [How a Math Genius Hacked OkCupid to Find True Love](https://www.wired.com/2014/01/how-to-hack-okcupid/)
+
+* [Manifold learning on handwritten digits](http://scikit-learn.org/stable/auto_examples/manifold/plot_lle_digits.html#sphx-glr-auto-examples-manifold-plot-lle-digits-py)
