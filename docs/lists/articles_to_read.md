@@ -255,7 +255,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [memory-next-platform](http://www.nextplatform.com/2016/10/10/memory-next-platform/)
 
-* []()
+* [The future of the web and native apps](http://ilyabirman.net/meanwhile/all/web-or-native-future/)
 
 * []()
 
