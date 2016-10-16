@@ -25,3 +25,6 @@
 
 * [Bayesian Deep Learning](http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/)
 
+* [A Concrete Introduction to Probability (using Python)](http://nbviewer.jupyter.org/url/norvig.com/ipython/Probability.ipynb)
+
+* [Cross Validation Done Wrong](http://www.alfredo.motta.name/cross-validation-done-wrong/)
