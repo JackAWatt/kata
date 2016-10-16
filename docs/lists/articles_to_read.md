@@ -235,11 +235,11 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [The Ops Identity Crisis](http://www.susanjfowler.com/blog/2016/10/13/the-ops-identity-crisis)
 
-* []()
+* [How to actually learn data science](http://www.datatau.com/item?id=11800)
 
-* []()
+* [Hiring data scientists](http://treycausey.com/hiring_data_scientists.html)
 
-* []()
+* [](http://setosa.io/ev/markov-chains/)
 
 * []()
 
