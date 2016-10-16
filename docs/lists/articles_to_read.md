@@ -241,7 +241,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [Software development skills for data scientists](http://treycausey.com/software_dev_skills.html)
 
-* []()
+* [Data Science Interview Questions](http://www.itshared.org/2015/10/data-science-interview-questions.html)
 
 * []()
 
