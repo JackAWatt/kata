@@ -233,7 +233,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [How to use t-SNE effectively](http://distill.pub/2016/misread-tsne/)
 
-* []()
+* [The Ops Identity Crisis](http://www.susanjfowler.com/blog/2016/10/13/the-ops-identity-crisis)
 
 * []()
 
