@@ -47,3 +47,5 @@ Things that are neat:
 * [One Hacker Way • Erik Meijer](https://www.youtube.com/watch?v=FvMuPtuvP5w)
 
 * [The first 20 hours -- how to learn anything](https://www.youtube.com/watch?v=5MgBikgcWnY)
+
+* [Introduction to Deep Learning with Python](https://www.youtube.com/watch?v=S75EdAcXHKk)
