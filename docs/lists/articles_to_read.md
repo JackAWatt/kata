@@ -251,9 +251,9 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [what every computer scientist should know about floating-point arithmetic](http://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
 
-* []()
+* [The Birkana hexadecimal number symbols](http://yawar.blogspot.ca/2016/10/the-birkana-hexadecimal-number-symbols.html)
 
-* []()
+* [memory-next-platform](http://www.nextplatform.com/2016/10/10/memory-next-platform/)
 
 * []()
 
