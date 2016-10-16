@@ -11,3 +11,5 @@
 * [Processing in memory](https://www.reddit.com/r/compsci/comments/5703wx/what_are_your_sources_of_inspiration_for_the/)
 
 * [Interesting 16x16 grid sum](http://stackoverflow.com/questions/40027974/interesting-16x16-grid-sum)
+
+* [Switched from pre-med to comp sci, but it still want some biology in my life. What are my career options](https://www.reddit.com/r/compsci/comments/57eom6/switched_from_premed_to_comp_sci_but_it_still/)
