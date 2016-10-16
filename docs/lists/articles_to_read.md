@@ -245,7 +245,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [The Theorem Every Data Scientist Should Know](http://www.jeannicholashould.com/the-theorem-every-data-scientist-should-know.html)
 
-* []()
+* [Neglected machine learning ideas](https://scottlocklin.wordpress.com/2014/07/22/neglected-machine-learning-ideas/)
 
 * []()
 
