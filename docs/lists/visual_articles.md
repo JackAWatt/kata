@@ -21,4 +21,5 @@
 
 * [Yhat ScienceBox](http://blog.yhat.com/posts/yhat-sciencebox.html)
 
-* [Frequentism and Bayesianism IV: How to be a Bayesian in Python(http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)
+* [Frequentism and Bayesianism IV: How to be a Bayesian in Python](http://jakevdp.github.io/blog/2014/06/14/frequentism-and-bayesianism-4-bayesian-in-python/)
+
