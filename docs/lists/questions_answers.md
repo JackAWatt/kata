@@ -31,3 +31,5 @@
 * [anyone_know_of_a_good_artificial_intelligence/ course or degree](https://www.reddit.com/r/compsci/comments/57a4y2/anyone_know_of_a_good_artificial_intelligence/)
 
 * [Budget deep learning rig](https://www.reddit.com/r/MachineLearning/comments/57r6z6/d_budget_deep_learning_rig/)
+
+* [Recommended Self-Study Path for Statistics](https://news.ycombinator.com/item?id=12703032)
