@@ -12,3 +12,7 @@
 * [11 python libraries](http://blog.yhat.com/posts/11-python-libraries-you-might-not-know.html)
 
 * [WHY YOU SHOULD STOP WORRYING ABOUT DEEP LEARNING AND DEEPEN YOUR UNDERSTANDING OF CAUSALITY INSTEAD](https://yanirseroussi.com/2016/02/14/why-you-should-stop-worrying-about-deep-learning-and-deepen-your-understanding-of-causality-instead/)
+
+* [The hardest parts of data science](https://yanirseroussi.com/2015/11/23/the-hardest-parts-of-data-science/)
+
+* []()
