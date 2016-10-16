@@ -36,3 +36,6 @@
 
 * [CS281: Advanced Machine Learning](http://www.seas.harvard.edu/courses/cs281/) 
 
+* [Self-study guide to machine learning](http://machinelearningmastery.com/self-study-guide-to-machine-learning/)
+
+* []
