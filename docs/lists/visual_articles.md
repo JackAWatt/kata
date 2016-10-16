@@ -34,3 +34,5 @@
 * [How a Math Genius Hacked OkCupid to Find True Love](https://www.wired.com/2014/01/how-to-hack-okcupid/)
 
 * [Manifold learning on handwritten digits](http://scikit-learn.org/stable/auto_examples/manifold/plot_lle_digits.html#sphx-glr-auto-examples-manifold-plot-lle-digits-py)
+
+* [5 Simple Math Problems No One Can Solve](http://www.popularmechanics.com/science/g2816/5-simple-math-problems/)
