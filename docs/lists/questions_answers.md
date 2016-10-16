@@ -33,3 +33,5 @@
 * [Budget deep learning rig](https://www.reddit.com/r/MachineLearning/comments/57r6z6/d_budget_deep_learning_rig/)
 
 * [Recommended Self-Study Path for Statistics](https://news.ycombinator.com/item?id=12703032)
+
+* [How do you log your time at work?](https://news.ycombinator.com/item?id=12717928)
