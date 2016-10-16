@@ -25,3 +25,5 @@
 * [How do we make Data Tau work?](http://www.datatau.com/item?id=11800)
 
 * [what is your setup?](http://www.datatau.com/item?id=634)
+
+* [NP with a parallelism model?](http://cs.stackexchange.com/questions/64679/np-with-a-parallelism-model)
