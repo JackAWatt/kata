@@ -7,3 +7,5 @@
 * [Ask HN: To those who became fluent in a second language, what did you do?](https://news.ycombinator.com/item?id=12716549)
 
 * [What is computer science to you?](https://www.reddit.com/r/compsci/comments/56ow2m/what_is_computer_science_to_you/)
+
+* [What are your sources of inspiration for the projects you make? How do you come up with ideas for projects?(https://www.reddit.com/r/compsci/comments/5703wx/what_are_your_sources_of_inspiration_for_the/)
