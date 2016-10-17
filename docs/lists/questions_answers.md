@@ -37,3 +37,6 @@
 * [How do you log your time at work?](https://news.ycombinator.com/item?id=12717928)
 
 * [21 data science interview questions](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+
+* [Ask HN: How to handle less-than-committed colleagues](https://news.ycombinator.com/item?id=12722587)
+
