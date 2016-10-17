@@ -261,7 +261,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [why give a fuck about colonizing mars?](https://medium.com/the-simulacrum/why-give-a-f-k-to-colonize-mars-c8243880532c#.jz1ch04mb)
 
-* []()
+* [How To Destroy The Myth Of The Proper Solution](https://hackernoon.com/how-to-destroy-the-myth-of-the-proper-solution-94ca958def1f#.1xnamqs6a)
 
 * []()
 
