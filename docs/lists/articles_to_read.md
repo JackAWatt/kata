@@ -257,9 +257,9 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [The future of the web and native apps](http://ilyabirman.net/meanwhile/all/web-or-native-future/)
 
-* []()
+* [Chatbots, and how will Microsoft help us with this?](http://www.viva64.com/en/b/0433/)
 
-* []()
+* [why give a fuck about colonizing mars?](https://medium.com/the-simulacrum/why-give-a-f-k-to-colonize-mars-c8243880532c#.jz1ch04mb)
 
 * []()
 
