@@ -41,4 +41,4 @@
 
 * [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata)
 
-* []()
+* [How to tame the valley — Hessian-free hacks for optimizing large #NeuralNetworks](https://medium.com/autonomous-agents/how-to-tame-the-valley-hessian-free-hacks-for-optimizing-large-neuralnetworks-5044c50f4b55#.dcoxpog6e)
