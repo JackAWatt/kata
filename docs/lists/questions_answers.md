@@ -35,3 +35,5 @@
 * [Recommended Self-Study Path for Statistics](https://news.ycombinator.com/item?id=12703032)
 
 * [How do you log your time at work?](https://news.ycombinator.com/item?id=12717928)
+
+* [21 data science interview questions](http://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
