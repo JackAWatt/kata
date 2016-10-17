@@ -43,3 +43,5 @@
 * [data analysis](https://www.springboard.com/learning-paths/data-analysis/)
 
 * [Easy parallel loops in Python, R, Matlab and Octave](https://blog.dominodatalab.com/simple-parallelization/)
+
+* [the cryptopals crypto challenges](https://cryptopals.com/)
