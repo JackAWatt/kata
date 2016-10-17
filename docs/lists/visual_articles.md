@@ -38,3 +38,7 @@
 * [5 Simple Math Problems No One Can Solve](http://www.popularmechanics.com/science/g2816/5-simple-math-problems/)
 
 * [How Distributed Outer Joins on PostgreSQL with Citus Work](https://www.citusdata.com/blog/2016/10/10/outer-joins-in-citus/)
+
+* [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata)
+
+* []()
