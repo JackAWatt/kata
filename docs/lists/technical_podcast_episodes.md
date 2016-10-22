@@ -1,5 +1,3 @@
-[Back to Main List](https://gist.github.com/JsWatt/4aef73498525961a5764)
-
 * [Technical Debt](https://devchat.tv/ruby-rogues/technical-debt)
 
 * [RR Book Club: Smalltalk Best Practice Patterns with Kent Beck](https://devchat.tv/ruby-rogues/023-rr-book-club-smalltalk-best-practice-patterns-with-kent-beck) --read the book that goes with this
