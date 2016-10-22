@@ -42,3 +42,15 @@
 * [How to build a robot that “sees” with $100 and TensorFlow](https://www.oreilly.com/learning/how-to-build-a-robot-that-sees-with-100-and-tensorflow?twitter=@bigdata)
 
 * [How to tame the valley — Hessian-free hacks for optimizing large #NeuralNetworks](https://medium.com/autonomous-agents/how-to-tame-the-valley-hessian-free-hacks-for-optimizing-large-neuralnetworks-5044c50f4b55#.dcoxpog6e)
+
+* [bayesAB 0.7.0 + a Primer on Priors](http://fportman.com/blog/bayesab-0-dot-7-0-plus-a-primer-on-priors/)
+
+* [pandasql: Make python speak SQL](http://blog.yhat.com/posts/pandasql-intro.html)
+
+* [recurrent-neural-network-gradients-and-lessons-learned-therein](http://willwolf.io/en/2016/10/13/recurrent-neural-network-gradients-and-lessons-learned-therein/)
+
+* [Comparing Language from 36 Years of Presidential Debates](https://www.scripted.com/content-marketing-2/36-years-presidential-debates)
+
+* [Weekly BigData & ML Roundup](https://pocketcluster.wordpress.com/2016/10/13/weekly-bigdata-ml-roundup-oct-13-2016/)
+
+* []()
