@@ -45,3 +45,7 @@
 * [Easy parallel loops in Python, R, Matlab and Octave](https://blog.dominodatalab.com/simple-parallelization/)
 
 * [the cryptopals crypto challenges](https://cryptopals.com/)
+
+* [Material Design](https://material.io/)
+
+* [taskt-considered-harmful](https://googleprojectzero.blogspot.ca/2016/10/taskt-considered-harmful.html)

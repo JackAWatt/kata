@@ -263,7 +263,7 @@ List](https://github.com/JsWatt/Free-Parking/blob/master/docs/lists/main.md)
 
 * [How To Destroy The Myth Of The Proper Solution](https://hackernoon.com/how-to-destroy-the-myth-of-the-proper-solution-94ca958def1f#.1xnamqs6a)
 
-* []()
+* [PROBABILISTIC-PROGRAMMING.org(http://probabilistic-programming.org/wiki/Home)
 
 
 

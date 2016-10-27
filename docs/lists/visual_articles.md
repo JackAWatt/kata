@@ -53,4 +53,4 @@
 
 * [Weekly BigData & ML Roundup](https://pocketcluster.wordpress.com/2016/10/13/weekly-bigdata-ml-roundup-oct-13-2016/)
 
-* []()
+* [coding-like-shakespeare-practical-function-naming-conventions/](https://rainsoft.io/coding-like-shakespeare-practical-function-naming-conventions/)
