@@ -1,0 +1,4 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["kfnyQ"]); }
+
+__d('ArticleAuthorEngagementBlock',['csx','CSS','DOMQuery','Event','Style'],(function a(b,c,d,e,f,g,h){if(c.__markCompiled)c.__markCompiled();var i={registerClickHandler:function j(k,l,m){c('Event').listen(k,'click',function(n){if(l!==undefined&&c('CSS').shown(l)===false){if(m){var o=c('DOMQuery').scry(k,"._3c21"),p=c('DOMQuery').scry(k,"._6m3");if(o.length===0||p.length===0)return;var q=o[0],r=p[0];c('Style').set(q,'height','237px');c('Style').set(r,'height','179px');}c('CSS').show(l);}});}};f.exports=i;}),null);
+__d('MediaPage',['DliteWeb'],(function a(b,c,d,e,f,g){if(c.__markCompiled)c.__markCompiled();var h={init:function i(){c('DliteWeb').setRouteHandler(function(){return true;});}};f.exports=h;}),null);
