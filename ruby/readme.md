@@ -1,9 +1,2 @@
+#nothing too useful here. Mostly just code that doesn't have a place anywhere else. 
 
-
-* todo
-
-*    * increment numbers in strings. Ex:
-
-          * a = "9.md"
-          * a += 1
-          * a == "10.md
