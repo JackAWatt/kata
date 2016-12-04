@@ -2,25 +2,49 @@ input = "^><^>>>^<^v<v^^vv^><<^<><<vv^<>^<^v>^vv<>v><vv^^<>>^^^v<<vv><<^>^<^v<^>
 unique_houses = 0
 x = 0
 y = 0
+robot_x = 0
+robot_y = 0
+robots_turn = 0
 visited = []
 current = x.to_s << "x" << y.to_s
 visited << current
 
 input.split('').each do |i|
+  robots_turn = !robots_turn
   if ["<", ">"].include? i then
     if "<" == i then
-      y -= 1
+      if robots_turn then
+        robot_y -= 1
+      else
+        y -= 1
+      end
     else
-      y += 1
+      if robots_turn then
+        robot_y +=1
+      else
+        y += 1
+      end
     end
   else
     if i == "^" then
-      x += 1
+      if robots_turn then
+        robot_x += 1
+      else
+        x += 1
+      end
     else
-      x -= 1
+      if robots_turn then
+        robot_x -= 1
+      else
+        x -= 1
+      end
     end
   end
-  current = x.to_s << "x" << y.to_s
+  if robots_turn then
+    current = robot_x.to_s << "x" << robot_y.to_s
+  else
+    current = x.to_s << "x" << y.to_s
+  end
   if !visited.include? current then
     visited << current
   end
