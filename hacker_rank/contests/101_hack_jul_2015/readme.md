@@ -1,0 +1,2 @@
+- [contest page](https://www.hackerrank.com/contests/101hack27/challenges)
+- neither solutions pass all test cases
