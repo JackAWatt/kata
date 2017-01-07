@@ -1,0 +1,1 @@
+grep '[tT][hH][eE] '
