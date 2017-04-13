@@ -1,22 +1,26 @@
-//import peasy.*;
-//PeasyCam cam;
 
-int x = 1000;
+
+int x = 100;
 int y = x;
 int[][] board = new int[x][x];
 int start = 1;
 void setup() {
   size(1000,1000, P3D);
-  //cam = new PeasyCam(this, 500);
-  random_inject();
+  frameRate(21);
+  //random_inject();
+  board[x/2][y/2] = 1;
+  board[x/2][y/2-1] = 1;
+  board[x/2][y/2-2] = 1;
+  board[x/2-1][y/2-2] = 1;
+  board[x/2-2][y/2-1] = 1;
 }
 
 void draw() {
   background(134);
   stroke(0);
   lights();
-  strokeWeight(1);
-  if (start == 0) {
+  strokeWeight(4);
+  if (start == 30) {
     for (int i = 0; i<x;i++){
       for (int j=0;j<x;j++){
         int n = neighbors(i,j);
@@ -35,7 +39,7 @@ void draw() {
   for (int i = 0; i<x;i++){
     for (int j=0;j<x;j++){
       if (board[i][j] == 1) {
-        point(i,j);
+        point(i*10,j*10);
       }
     }
   }
@@ -57,7 +61,7 @@ int neighbors(int x,int y){
       neighbor_count++;
     }
   }
-  if (y != height-1){
+  if (y != 100 -1){
     if (board[x][y+1] == 1){
       neighbor_count++;
     }
@@ -67,7 +71,7 @@ int neighbors(int x,int y){
       neighbor_count++;
     }
   }
-  if (x != width-1){
+  if (x != 100-1){
     if (board[x+1][y] == 1){
       neighbor_count++;
     }
@@ -79,21 +83,21 @@ int neighbors(int x,int y){
       }
     }
   }
-  if (x != width-1){
-    if (y != height-1){
+  if (x != 100-1){
+    if (y != 100-1){
       if (board[x+1][y+1] == 1){
         neighbor_count++;
       }
     }
   }
-  if (x != width-1){
+  if (x != 100-1){
     if (y != 0){
       if (board[x+1][y-1] == 1){
         neighbor_count++;
       }
     }
   }
-  if (y != height-1){
+  if (y != 100-1){
     if (x != 0){
       if (board[x-1][y+1] == 1){
         neighbor_count++;
