@@ -1,4 +1,4 @@
-PFont f;
+
 int x = 400;
 int y = x;
 int[][] board = new int[x][x];
@@ -6,13 +6,66 @@ int[][] board = new int[x][x];
 int start = 1;
 void setup() {
   size(800,800, P3D);
-  frameRate(120);
-  //random_inject();
-  for (int i = 0; i<random(1,2);i++){
-    board_setup();
+  frameRate(20);
+  for (int i = 0; i<200;i+= 40){
+    board_setupx(i);
   }
+  
+  
 }
-
+void board_setupx(int n){
+  board[n+2][6] = 1;  
+  board[2+n][7] = 1;
+  board[3+n][6] = 1; 
+  board[3+n][7] = 1;
+  
+  board[12+n][6] = 1;
+  board[12+n][7] = 1;
+  board[12+n][8] = 1;
+  
+  board[13+n][5] = 1;
+  board[13+n][9] = 1;
+  
+  board[14+n][4] = 1;
+  board[14+n][10] = 1;
+  
+  board[15+n][4] = 1;
+  board[15+n][10] = 1;
+  
+  board[16+n][7] = 1;
+  
+  board[17+n][5] = 1;
+  board[17+n][9] = 1;
+  
+  board[18+n][6] = 1;
+  board[18+n][7] = 1;
+  board[18+n][8] = 1;
+  
+  board[19+n][7] = 1;
+  
+  board[22+n][4] = 1;
+  board[22+n][5] = 1;
+  board[22+n][6] = 1;
+  
+  board[23+n][4] = 1;
+  board[23+n][5] = 1;
+  board[23+n][6] = 1;
+  
+  board[24+n][3] = 1;
+  board[24+n][7] = 1;
+  
+  board[26+n][2] = 1;
+  board[26+n][3] = 1;
+  board[26+n][7] = 1;
+  board[26+n][8] = 1;
+  
+  board[36+n][4] = 1;
+  board[36+n][5] = 1;
+  
+  
+  board[37+n][4] = 1;
+  board[37+n][5] = 1;
+}
 void board_setup(){
   int x = int(random(10,width/5));
   int y = int(random(10,width/5));
@@ -27,8 +80,7 @@ void draw() {
   background(134);
   stroke(0);
   lights();
-  strokeWeight(2);
-  f = createFont("Arial",16,true);
+  strokeWeight(4);
   text("point x/2,y/2 neighbors " +  boolean(board[x/2+1][y/2+1]) + " " + neighbors(x/2,y/2) ,width/4,height-height/4);
   if (start == 0) {
     int[][] next_board = new int[x][x];
@@ -53,18 +105,11 @@ void draw() {
     for (int j=0;j<x;j++){
       if (board[i][j] == 1) {
         //stroke(random(255),random(255),random(255));
-        point(i*2,j*2);
+        point(i*4,j*4);
       }
     }
   }
   start = 0;
-}
-
-
-void random_inject() {
-  for (int i = x*int(random(16,32));i>=0;i--) {
-    board[int(random(x))][int(random(x))] = 1;
-  }
 }
 
 
