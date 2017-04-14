@@ -30,7 +30,7 @@ void setup() {
 }
 
 void random_inject() {
-  for (int i = xx*8;i>=0;i--) {
+  for (int i = xx*8*2;i>=0;i--) {
     board[int(random(xx))][int(random(yy))] = 1;
   }
 }
@@ -123,6 +123,7 @@ void draw() {
    
   }
     start = false;
+
   
   for (int i = 0; i<xx;i++){
     for (int j=0;j<yy;j++){
