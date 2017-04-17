@@ -2,11 +2,13 @@ int xx = 200, yy = 200;
 int[][] board = new int[xx][yy];
 int [][] next_board = new int[xx][yy];
 int[] ruleSet = new int[8];
+int run = 0;
 void setup(){
   size(1000,1000,P3D);
   board[xx/2][yy-1] = 1;
   for (int i = 0; i < 8;i++){
-    ruleSet[i] = int(random(0,1));
+    ruleSet[i] = int(random(16)% 2);
+    System.out.print(ruleSet[i]);
   }
 }
 
@@ -14,11 +16,19 @@ void draw(){
   background(111);
   stroke(1);
   strokeWeight(4);
-  
+  if (run > 500){
+    for (int i = 0; i < 8;i++){
+      ruleSet[i] = int(random(16)% 2);
+      System.out.println(ruleSet[i]);
+      run = 0;
+    }
+  } else {
+    run++;
+  }
   for (int i = 0; i <xx;i++){
     for (int j = 0; j<yy;j++){
       if (j == yy-1){
-        if (rule_check(i,j+1)){
+        if (rule_check(i,j-1)){
           next_board[i][j] = 1;
         } else {
           next_board[i][j] = 0; 
