@@ -1,7 +1,9 @@
 #!/bin/bash
-for ((number=1;number < 100;number++))
+for ((number=1;number < 10000;number++))
 {
+  clear
   git status
-  sleep 12
+  iostat
+  sleep 6
 }
 exit 0
