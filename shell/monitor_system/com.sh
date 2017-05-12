@@ -10,7 +10,7 @@ for ((number=1;number < 10000;number++))
   cd ../../../JsWatt.github.io/
   git status
   cd ../Free-Parking/shell/monitor_system/
-  sleep 16
+  sleep 60
   
 }
 exit 0
