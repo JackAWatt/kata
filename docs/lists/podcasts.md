@@ -44,10 +44,15 @@
 
 * [A Gobbet o'Pus]() -- currently on episode #447 (overcast started in the 400s, need to listen to the first 400)
 
-* []()
+* [Cognitive Dissonance]()
 
+* [completely optional knowledge]()
 
+* [inquiring minds]()
 
+* [Irreligiosophy]() --curent episode 11
+
+* [quackcast]()  --152
 ## 
 
 * [Caustic Soda]()
