@@ -48,13 +48,41 @@
 
 * [completely optional knowledge]()
 
+* [skeptoid]()
+
+* [stuff you should know]()
+
+* [waking up with sam harris]() --not listening in order
+
 * [inquiring minds]()
 
 * [Irreligiosophy]() --curent episode 11
 
 * [quackcast]()  --152
-## 
+
+* [science for the people]()
+
+* [science friday]()
+
+* [science sort of]()
+
+* [StarStuff with stuart gary]()
+
+* [thinking allowed]()
+
+* [the titanium physicists podcast]()
+
+* [useful science]()
+
+* [you are not so smart]() - currently on episode 1
+## other
+
+* [freaknomics radio]()
 
 * [Caustic Soda]()
 
-* []()
+* [More or Less: Behind the stats]()
+
+* [radiolab presents: more perfect]()
+
+* [louder with crowder]() --not listening in order
