@@ -75,6 +75,8 @@
 * [useful science]()
 
 * [you are not so smart]() - currently on episode 1
+
+* [tetrapod zoology podcast](http://tetzoo.com/)
 ## other
 
 * [freaknomics radio]()
