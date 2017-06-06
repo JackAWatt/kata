@@ -150,3 +150,28 @@ This is going to change to books I don't have and the other list will be for boo
 
 
 ## * skeptical // science // philosophy // etc -- basically just no computers
+
+
+* [it can't happen here , sinclair lewis]()
+
+* [starship troopers]()
+
+* [stranger in a stranger land]()
+
+* [flashbacks, timothy learly]()
+
+* [night, elie wiesel]()
+
+* [the age of american unreason]()
+
+* [the rights of man](paine)
+
+* [letting go of god , julia sweeney]()
+
+* [the case for mars, robert zubrin]()
+
+* [the magus]()
+
+* [old man's war , john scalzi]()
+
+* []()
