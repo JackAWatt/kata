@@ -147,3 +147,6 @@ This is going to change to books I don't have and the other list will be for boo
 * [Building Microservices](http://www.amazon.com/gp/product/1491950358/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1491950358&linkCode=as2&tag=chamaxwoo-20&linkId=BLSFXJD2SBJC7ZYR)
 
 * [faster algorithms](https://dspace.mit.edu/bitstream/handle/1721.1/104467/958830506-MIT.pdf?sequence=1)
+
+
+## * skeptical // science // philosophy // etc -- basically just no computers
