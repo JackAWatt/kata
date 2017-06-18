@@ -77,6 +77,12 @@
 * [you are not so smart]() - currently on episode 1
 
 * [tetrapod zoology podcast](http://tetzoo.com/)
+
+* [point of inquiry]() -- using overcast which I don't think starts from the begining.
+
+* [skepticality]() -- 
+
+
 ## other
 
 * [freaknomics radio]()
@@ -88,3 +94,10 @@
 * [radiolab presents: more perfect]()
 
 * [louder with crowder]() --not listening in order
+
+
+Podcasts that I haven't vetted yet:
+
+the math factor
+
+
