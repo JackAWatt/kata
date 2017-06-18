@@ -4,3 +4,5 @@
 
 * [new scientist]
 * [skeptical inquirer]
+* []scientific american]
+* [
