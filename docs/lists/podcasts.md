@@ -4,7 +4,7 @@
 
 * [Greater Than Code]() -- current episode: 23
 
-* [Ruby Rogues](https://devchat.tv/ruby-rogues) -- current episode: 281
+* [Ruby Rogues](https://devchat.tv/ruby-rogues) -- current episode: 281 - probably won't come back to this. Everyone of importance left to found >code
 
 * [Data Skeptic Podcast](http://dataskeptic.com/)  --The mini episodes are great
 
