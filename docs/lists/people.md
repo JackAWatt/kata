@@ -1,5 +1,7 @@
 [Back to Main List](https://gist.github.com/JsWatt/4aef73498525961a5764)
 
+##computer science/engineering
+
 * [Kent Beck](https://en.wikipedia.org/wiki/Kent_Beck) --Smalltalk Best Practice Patterns, Extreme Programming Explained, [talks](http://confreaks.tv/presenters/kent-beck)
 
 * [Donald E. Knuth](http://www-cs-faculty.stanford.edu/~uno/)  --[The Art of Computer Programming](https://books.techendo.com/books/13) , [The Computer as Master Mind](http://www.dcc.fc.up.pt/~sssousa/RM09101.pdf)
@@ -27,3 +29,7 @@
 * [Chris Sacca](http://lowercasecapital.com/proprietor/)  --vc in twitter, uber, kickstarter, instagram -- great public speaker
 
 * [Dan Luu](http://danluu.com/)
+
+##science/skepticism
+
+* [Jon Ronson] - 
