@@ -11,4 +11,16 @@ patriotism - yukio mishima
 
 The Myth of Natural Rights - L. A. Rollins
 
+Beyond good and evil - Friedrich Nietzsche
+
+Thus spoke zarathustra - Friedrich Nietzsche
+
+Ecce Homo - Friedrich Nietzsche
+
+The wisdom of life - Arthur Schopenhauer
+
+Revolt against the modern world - Julius Evola
+
+
+
 
