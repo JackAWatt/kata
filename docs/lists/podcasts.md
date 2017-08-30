@@ -40,9 +40,11 @@
 
 ## science / philosophy / skeptical
 
-* [Skeptics Guide to the Universe]() -- currently on episode #126
+* [Skeptics Guide to the Universe]() -- currently on episode #212
 
-* [A Gobbet o'Pus]() -- currently on episode #447 (overcast started in the 400s, need to listen to the first 400)
+* [A Gobbet o'Pus]() -- currently on episode #457 (overcast started in the 400s, need to listen to the first 400)
+
+* [astronomy cast]() --episode #7
 
 * [Cognitive Dissonance]()
 
@@ -56,9 +58,9 @@
 
 * [inquiring minds]()
 
-* [Irreligiosophy]() --curent episode 11
+* [Irreligiosophy]() --curent episode #18
 
-* [quackcast]()  --152
+* [quackcast]()  --161
 
 * [science for the people]()
 
@@ -78,10 +80,17 @@
 
 * [tetrapod zoology podcast](http://tetzoo.com/)
 
-* [point of inquiry]() -- using overcast which I don't think starts from the begining.
+* [point of inquiry]() -- most recent(philip kitcher)using overcast which I don't think starts from the begining.
 
 * [skepticality]() -- 
 
+* [rationally speaking]() - #34
+
+* [reasonable doubts]() - #5
+
+* [skepticality]() # phil plait 5/20/2005
+
+* []()
 
 ## other
 
