@@ -40,7 +40,7 @@
 
 ## science / philosophy / skeptical
 
-* [Skeptics Guide to the Universe]() -- currently on episode #212
+* [Skeptics Guide to the Universe]() -- currently on episode #354
 
 * [A Gobbet o'Pus]() -- currently on episode #457 (overcast started in the 400s, need to listen to the first 400)
 
@@ -80,7 +80,7 @@
 
 * [tetrapod zoology podcast](http://tetzoo.com/)
 
-* [point of inquiry]() -- most recent(philip kitcher)using overcast which I don't think starts from the begining.
+* [point of inquiry]() -- most recent(naomi oreskes)using overcast which I don't think starts from the begining.
 
 * [skepticality]() -- 
 
