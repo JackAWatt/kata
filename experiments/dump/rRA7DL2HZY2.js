@@ -1,3 +1,0 @@
-if (self.CavalryLogger) { CavalryLogger.start_js(["YlnOT"]); }
-
-__d('attachAdsDispatcherDebugger',['AdsFluxStoreInspectorHelper','URI'],(function a(b,c,d,e,f,g){'use strict';if(c.__markCompiled)c.__markCompiled();function h(i){var j=new (c('URI'))(window.location.href).getQueryData().dispatcherevents;i.register(function(k){var l=k.action,m=k.payloadsource;if(l){if(console.timeStamp)console.timeStamp(l.type);if(m)c('AdsFluxStoreInspectorHelper').newAction(l,m);j;}});}f.exports=h;}),null);
