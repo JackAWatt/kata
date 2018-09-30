@@ -17,3 +17,5 @@
 Created directories for the three 30-hour sessions
 
 layed out first few sessions in each doman
+
+I will use the start of each session to plan the rest of that session. This won't be the case for any domain except this one. The rest will include a 15-30 min buffer session to plan out/modify the next session
