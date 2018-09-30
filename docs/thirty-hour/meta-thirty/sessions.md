@@ -6,6 +6,7 @@
   the sessions. In the future it would make sense to use buffer time between
   sessions to plan the subsequent session. 
  * the point of doing 15 * 2 hour sessions is to get into the habbit of planning out learning paths.
+ * I would like to have several plans ready to be picked up at any time. 
  * sessions complete: 1
 
 ## session 1: plan out a few sessions towards skills to learn
@@ -30,4 +31,7 @@ I will use the start of each session to plan the rest of that session. This won'
 * electronics - GPIO, basics of electronics, arduino/rPi tutorials, putting the case full of electronics to use, figure out what some of the components are for
 * data visualization - d3, pandas(I think?), R. Learn some stats first so there is something to visualize
 * C/C++ - 21st centuary C, roger sessions book, K&R
+* elm
+* smalltalk
+
 
