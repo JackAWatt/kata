@@ -13,5 +13,5 @@
 * syntopical reading - plan out sessions around reading books/papers with the
   intent of being able to write about the content in my own words
 
-*    ### notes
-* ...
+* ### notes
+* 
