@@ -5,6 +5,7 @@
   ARM exploitation was written by the person who wrote most of the content for
   the sessions. In the future it would make sense to use buffer time between
   sessions to plan the subsequent session. 
+ * the point of doing 15 * 2 hour sessions is to get into the habbit of planning out learning paths.
  * sessions complete: 1
 
 ## session 1: plan out a few sessions towards skills to learn
