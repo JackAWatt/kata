@@ -24,4 +24,7 @@ I will use the start of each session to plan the rest of that session. This won'
 ## session 2: contiue with 3 initial domains and then add a few more
 * Unix/Linux - the linux programming interface, looking into the kernal, familiarize with sed, grep, awk, other unix utils
 * functional programming - recursion, monads, higher order functions
-* 
+* video/audio/photo editing - basic photoshop, editing out silence on podcasts, transitions on vidoes, etc
+* electronics - GPIO, basics of electronics, arduino/rPi tutorials, putting the case full of electronics to use, figure out what some of the components are for
+* data visualization - d3, pandas(I think?), R. Learn some stats first so there is something to visualize
+
