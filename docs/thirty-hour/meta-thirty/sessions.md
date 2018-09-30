@@ -14,4 +14,6 @@
   intent of being able to write about the content in my own words
 
 * ### notes
-* 
+Created directories for the three 30-hour sessions
+
+layed out first few sessions in each doman
