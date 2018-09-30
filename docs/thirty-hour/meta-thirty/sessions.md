@@ -29,4 +29,5 @@ I will use the start of each session to plan the rest of that session. This won'
 * video/audio/photo editing - basic photoshop, editing out silence on podcasts, transitions on vidoes, etc
 * electronics - GPIO, basics of electronics, arduino/rPi tutorials, putting the case full of electronics to use, figure out what some of the components are for
 * data visualization - d3, pandas(I think?), R. Learn some stats first so there is something to visualize
+* C/C++ - 21st centuary C, roger sessions book, K&R
 
