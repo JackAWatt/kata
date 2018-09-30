@@ -19,3 +19,9 @@ Created directories for the three 30-hour sessions
 layed out first few sessions in each doman
 
 I will use the start of each session to plan the rest of that session. This won't be the case for any domain except this one. The rest will include a 15-30 min buffer session to plan out/modify the next session
+
+
+## session 2: contiue with 3 initial domains and then add a few more
+* Unix/Linux - the linux programming interface, looking into the kernal, familiarize with sed, grep, awk, other unix utils
+* functional programming - recursion, monads, higher order functions
+* 
