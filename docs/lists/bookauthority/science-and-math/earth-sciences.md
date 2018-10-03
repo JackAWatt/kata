@@ -1,22 +1,4 @@
-[1](https://www.goodreads.com/search?q=1501121464)
 
-[2](https://www.goodreads.com/search?q=1438007418)
-
-[3](https://www.goodreads.com/search?q=1465402454)
-
-[4](https://www.goodreads.com/search?q=1119343216)
-
-[5](https://www.goodreads.com/search?q=1547270527)
-
-[6](https://www.goodreads.com/search?q=1506231624)
-
-[7](https://www.goodreads.com/search?q=0807168335)
-
-[8](https://www.goodreads.com/search?q=0321926986)
-
-[9](https://www.goodreads.com/search?q=1464110719)
-
-[10](https://www.goodreads.com/search?q=1977849024)
 
 [11](https://www.goodreads.com/search?q=1944435034)
 
