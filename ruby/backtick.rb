@@ -1,2 +1,0 @@
-p sysinfo = `uname -a`
-
