@@ -1037,7 +1037,7 @@ input.split("\n").each do |x|
   vowels = 0
   double_letter = 0
 end
-p nice_list"
+p nice_list
 repeat_pair = 0
 repeat_letter = 0
 nice_list = 0
